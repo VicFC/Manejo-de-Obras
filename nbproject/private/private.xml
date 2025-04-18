@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/ADMINEditorEmpleados.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/TextAreaRenderer.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Modelo/Medida.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/INSPECTORConsultarPuesto.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/ADMINCrearEmpleado.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Modelo/Albanil.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Modelo/JefeDeObra.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Modelo/TrabajadorDeAlturas.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Negocio/EmailService.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Modelo/Empleado.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Modelo/IArchivoService.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Modelo/RolUsuario.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/Login.png</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/ADMINEditorPuestos.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Modelo/Puesto.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/images/Inspector.png</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/Login.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/ADMINCrearFuncionario.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/INSPECTORVerEmpleados.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/INSPECTORHacerInspeccion.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/ADMINModificarEmpleado.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/images/Administr.png</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Modelo/Soldador.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Modelo/Riesgo.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/INSPECTORVerPuestos.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/INSPECTOREnviarBitacoraCorreo.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Modelo/Usuario.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Negocio/ArchivoBinarioService.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Negocio/Obra.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/PrincipalAdmins.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/ADMINEditorAdminsInspectores.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/ADMINModificarFuncionario.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/images/Login.png</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Modelo/EntradaBitacora.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/ADMINModificarElPuesto.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/AMBOSConsultarBitacora.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Vista/PrincipalInspectores.java</file>
+            <file>file:/C:/Users/Public/Documents/Tec/2024%20Disc%202/POO/Proyectos%20II%20y%20III/Proyecto%20III/Interfaz%20Versión%201/ProyectoMedidasConst/src/Modelo/Cristalero.java</file>
+        </group>
+    </open-files>
+</project-private>
